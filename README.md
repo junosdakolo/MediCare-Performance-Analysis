@@ -72,6 +72,6 @@ Using data-driven methods, we provided strategic insights and visualizations to 
 ## 📬 Contact
 
 For questions or collaboration inquiries, please contact:  
-📧 dakoloemmanuel@gmail.com 
+📧 junosdakolo@gmail.com
 
 
